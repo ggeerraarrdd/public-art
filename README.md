@@ -17,6 +17,7 @@ The development is kickstarted by the [database design document](design/DESIGN.m
 Stay tuned!
 
 ![Screenshot](images/flamingo.png)
+_(Photo Credit: Carol M. Highsmith Photography. [Source](https://art.gsa.gov/artworks/23671/flamingo).)_
 
 More screenshots below.
 
