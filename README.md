@@ -19,8 +19,7 @@ The development is kickstarted by the [database design document](design/DESIGN.m
 
 Stay tuned!
 
-![Screenshot](images/flamingo.png)
-_(Photo Credit: Carol M. Highsmith Photography. [Source](https://art.gsa.gov/artworks/23671/flamingo).)_
+![Screenshot](docs/flamingo.png)
 
 More screenshots below.
 
@@ -67,7 +66,7 @@ More screenshots below.
 
 * TBD
 
-## Configuration
+### Configuration
 
 * TBD
 
@@ -93,7 +92,7 @@ The [initial realease](https://github.com/ggeerraarrdd/public-art/releases/tag/v
 
 Improvements and new features development is ongoing.
 
-* Finalized database design
+* Finalize database design
 * RESTFul API
 * Web app powered by the API
 
