@@ -2,10 +2,35 @@
 
 An open data portal for public art in Chicago
 
-## Description
+## Table of Contents
 
 > [!NOTE]
 > ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+
+* [Description](#description)
+* [Target Users](#target-users)
+* [Features](#features)
+* [Project Structure](#project-structure)
+* [Quick Start](#quick-start)
+* [Local Setup](#local-setup)
+  * [Prerequisites](#prerequisites)
+  * [Dependencies](#dependencies)
+  * [Installation](#installation)
+  * [Configuration](#configuration)
+* [Usage](#usage)
+* [Production Setup](#production-setup)
+* [System Administration](#system-administration)
+* [Author(s)](#authors)
+* [Version History](#version-history)
+  * [Release Notes](#release-notes)
+  * [Initial Release](#initial-release)
+* [Future Work](#future-work)
+* [License](#license)
+* [Contributing](#contributing)
+* [Acknowledgments](#acknowledgments)
+* [Screenshots](#screenshots)
+
+## Description
 
 _Public Art API_ is a planned data portal for comprehensive, fact-based information on public art in Chicago.
 
@@ -19,30 +44,11 @@ The development is kickstarted by the [database design document](design/DESIGN.m
 
 Stay tuned!
 
-![Screenshot](docs/flamingo.png)
+![Screenshot](assets/flamingo.png)
 
-More screenshots below.
+## Target Users
 
-## Table of Contents
-
-* [Description](#description)
-* [Features](#features)
-* [Project Structure](#project-structure)
-* [Prerequisites](#prerequisites)
-* [Getting Started](#getting-started)
-  * [Dependencies](#dependencies)
-  * [Installation](#installation)
-  * [Configuration](#configuration)
-  * [Usage](#usage)
-* [Author(s)](#authors)
-* [Version History](#version-history)
-  * [Release Notes](#release-notes)
-  * [Initial Release](#initial-release)
-* [Future Work](#future-work)
-* [License](#license)
-* [Contributing](#contributing)
-* [Acknowledgments](#acknowledgments)
-* [Screenshots](#screenshots)
+* TBD
 
 ## Features
 
@@ -52,11 +58,15 @@ More screenshots below.
 
 * TBD
 
-## Prerequisites
+## Quick Start
 
 * TBD
 
-## Getting Started
+## Local Setup
+
+### Prerequisites
+
+* TBD
 
 ### Dependencies
 
@@ -70,7 +80,15 @@ More screenshots below.
 
 * TBD
 
-### Usage
+## Usage
+
+* TBD
+
+## Production Setup
+
+* TBD
+
+## System Administration
 
 * TBD
 
@@ -86,15 +104,11 @@ More screenshots below.
 
 ### Initial Release
 
-The [initial realease](https://github.com/ggeerraarrdd/public-art/releases/tag/v0.1.0) of _Public Art API_ was a database design document submitted as a final project for [CS50SQL: CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) (HarvardX, 2023). Read the [project brief](https://cs50.harvard.edu/sql/2023/project/) as of December 2023.
+The [initial release](https://github.com/ggeerraarrdd/public-art/releases/tag/v0.1.0) of _Public Art API_ was a database design document submitted as a final project for [CS50SQL: CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) (HarvardX, 2023). Read the [project brief](https://cs50.harvard.edu/sql/2023/project/) as of December 2023.
 
 ### Future Work
 
 Improvements and new features development is ongoing.
-
-* Finalize database design
-* RESTFul API
-* Web app powered by the API
 
 ## License
 
