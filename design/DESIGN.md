@@ -2,14 +2,14 @@
 
 ## Scope
 
-The database for Public Art includes all entities necessary to faciliate the documentation of public art. As such, included in the database's scope are:
+The database for Public Art includes all entities necessary to facilitate the documentation of public art. As such, included in the database's scope are:
 
 * Objects, including information on works of art that meet the definition of "public art"
 * Installations, including information on the placement of an object on at least one location
 * Agents, including information on individuals or groups of individuals that have a relationship to at least one record in at least one entity
 * Objects-Agents, including information on the association between object(s) and agent(s)
 * Role Types, including information characterizing an object-agent association
-* Incriptions, including information on intentional textual inscription(s) on an object
+* Inscriptions, including information on intentional textual inscription(s) on an object
 * Locations, including information on  physical places that have a relationship to at least one record in at least one entity
 * Assets, including information on digitized media associated with at least one object
 * Asset Types, including information characterizing an asset
@@ -333,11 +333,11 @@ As detailed by the diagram, here are the most important relationships:
 
 * One object, which refers to a work of art, including all its constituent parts, is part of one to many installations. An installation is comprised of one and only one object.
 * An installation is installed in one and only one location. A location contains zero to many installations.
-* An installation is preceded by zero to one installation. Similarly, an installation is proceded by zero to one installation.
+* An installation is preceded by zero to one installation. Similarly, an installation is proceeded by zero to one installation.
 * An object is part of one to many object-agent relationship. Similarly, an agent is part of one to many object-agent relationship. An example object-agent relationship is an agent being the lead artistic creator of an object. Another example is an agent being the owner of record for an object.
 * An object contains zero to many inscriptions. An inscription is contained in one and only one object.
 * An asset is in one to many asset-object relationships. Similarly, an object is in zero to many asset-object relationships. An example asset-object is a video showing an object at an installation.
-* The entities object, installation, inscription and object-agent relationship has one to many rows. In practical terms, this means that all their rows have metada saved on the rows entity.
+* The entities object, installation, inscription and object-agent relationship has one to many rows. In practical terms, this means that all their rows have metadata saved on the rows entity.
 * A row contains one to many attributes. An attribute is in one and only one row.
 * A verification verifies one and only one attribute. An attribute is verified by one and only one verification.
 * A reference supports one to many verifications. A verification is supported by one to many references.
